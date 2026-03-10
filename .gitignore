@@ -1,0 +1,20 @@
+cat <<EOT > .gitignore
+_xmsgs/
+iseconfig/
+isim/
+
+*.exe
+*.wdb
+*.bit
+*.log
+*.xmsgs
+*.cmd
+*.html
+*.ini
+*.prj
+
+!*.vhd
+!*.xise
+!*.wcfg
+!ipcore_dir/
+EOT

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/Desktop/Projekt Steorownik Zmywarki/Krywult_275592/test_isim_beh.exe" -prj "/home/ise/Desktop/Projekt Steorownik Zmywarki/Krywult_275592/test_beh.prj" "work.test" 
